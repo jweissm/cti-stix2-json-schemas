@@ -133,7 +133,9 @@
   "required": [
     "first_observed",
     "last_observed",
-    "number_observed"
+    "number_observed",
+    "object_refs",
+    "created_by_ref"
   ],
   "oneOf": [
     {

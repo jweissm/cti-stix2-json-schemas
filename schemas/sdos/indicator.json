@@ -71,7 +71,10 @@
   "required": [
     "pattern",
     "pattern_type",
-    "valid_from"
+    "valid_from",
+    "name",
+    "indicator_types"
+
   ],
   "definitions": {
     "indicator-type-ov": {

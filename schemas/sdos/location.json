@@ -76,11 +76,11 @@
       "anyOf": [
         {
           "required": [
-            "region"
+            "country"
           ]
         },
         {
-          "required": [
+          "requred": [
             "country"
           ]
         },
@@ -138,6 +138,9 @@
         }
       ]
     }
+  ],
+  "required": [
+    "region"
   ],
   "definitions": {
     "region-ov": {

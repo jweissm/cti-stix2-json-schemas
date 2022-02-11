@@ -146,6 +146,7 @@
     "spec_version",
     "id",
     "created",
-    "modified"
+    "modified",
+    "created_by_ref"
   ]
 }

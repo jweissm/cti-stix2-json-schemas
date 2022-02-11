@@ -49,6 +49,7 @@
     }
   ],
   "required": [
-    "object_refs"
+    "object_refs", 
+    "content"
   ]
 }

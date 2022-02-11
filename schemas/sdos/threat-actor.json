@@ -101,7 +101,13 @@
     }
   ],
   "required": [
-    "name"
+    "name",
+    "threat_actor_types",
+    "roles",
+    "sophistication",
+    "resource_level",
+    "primary_motivation",
+    "created_by_ref"
   ],
   "definitions": {
     "threat-actor-type-ov": {

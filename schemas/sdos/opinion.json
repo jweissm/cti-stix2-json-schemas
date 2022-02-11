@@ -57,6 +57,7 @@
   ],
   "required": [
     "object_refs",
-    "opinion"
+    "opinion",
+    "created_by_ref"
   ]
 }

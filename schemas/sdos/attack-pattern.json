@@ -48,6 +48,8 @@
     }
   ],
   "required": [
-    "name"
+    "name",
+    "external_references",
+    "kill_chain_phases"
   ]
 }

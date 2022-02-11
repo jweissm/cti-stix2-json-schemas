@@ -73,7 +73,9 @@
     }
   ],
   "required": [
-    "name"
+    "name",
+    "resource_level",
+    "primary_motivation"
   ],
   "definitions": {
     "attack-resource-level-ov": {
