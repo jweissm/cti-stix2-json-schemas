@@ -73,7 +73,8 @@
     "pattern_type",
     "valid_from",
     "name",
-    "indicator_types"
+    "indicator_types",
+    "created_by_ref"
 
   ],
   "definitions": {

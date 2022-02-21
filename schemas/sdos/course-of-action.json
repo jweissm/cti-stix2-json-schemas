@@ -33,6 +33,7 @@
     }
   ],
   "required": [
-    "name"
+    "name",
+    "created_by_ref"
   ]
 }

@@ -50,6 +50,7 @@
   "required": [
     "name",
     "external_references",
-    "kill_chain_phases"
+    "kill_chain_phases",
+    "created_by_ref"
   ]
 }

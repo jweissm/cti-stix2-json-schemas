@@ -1,10 +1,36 @@
 {
-  "type": "identity",
-  "id": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c",
-  "spec_version": "2.1",
-  "created": "2017-04-14T13:07:49.812Z",
-  "modified": "2017-04-14T13:07:49.812Z",
-  "name": "Oscorp Industries",
-  "identity_class": "organization",
-  "created_by_ref": "identity--987eeee1-413a-44ac-96cc-0a8acdcc2f2c"
+  "type": "bundle",
+  "id": "bundle--ac946f1d-6a0e-4a9d-bc83-3f1f3bfda6ba",
+  "objects": [
+    {
+      "type": "attack-pattern",
+      "spec_version": "2.1",
+      "id": "attack-pattern--0c7b5b88-8ff7-4a4d-aa9d-feb398cd0061",
+      "created": "2016-05-12T08:17:27.000Z",
+      "modified": "2016-05-12T08:17:27.000Z",
+      "created_by_ref": "identity--f431f809-377b-45e0-aa1c-6a4751cae5ff",
+      "name": "Spear Phishing",
+      "external_references": [
+          {
+              "source_name": "capec",
+              "external_id": "CAPEC-163"
+          }
+      ],
+      "kill_chain_phases":
+        [
+          {
+          "kill_chain_name": "example-kill-chain",
+          "phase_name": "lateral-movement"
+          }
+        ]
+  }
+  
+  
+
+  
+  
+  ]
 }
+
+
+

@@ -140,7 +140,8 @@
     }
   ],
   "required": [
-    "region"
+    "region",
+    "created_by_ref"
   ],
   "definitions": {
     "region-ov": {

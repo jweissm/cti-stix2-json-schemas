@@ -46,7 +46,8 @@
   ],
   "required": [
     "context",
-    "object_refs"
+    "object_refs",
+    "created_by_ref"
   ],
   "definitions": {
     "grouping-context-ov": {

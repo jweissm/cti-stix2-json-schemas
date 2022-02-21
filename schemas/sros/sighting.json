@@ -110,6 +110,7 @@
     }
   ],
   "required": [
-    "sighting_of_ref"
+    "sighting_of_ref",
+    "created_by_ref"
   ]
 }

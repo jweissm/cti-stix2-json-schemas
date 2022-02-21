@@ -50,6 +50,7 @@
   ],
   "required": [
     "object_refs", 
-    "content"
+    "content",
+    "created_by_ref"
   ]
 }
